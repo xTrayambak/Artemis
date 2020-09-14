@@ -88,6 +88,7 @@ namespace ArtemisDemo
 
 
 "Divide":
+
  the Divide function performs the division operation.
 Eg:
 ```csharp
