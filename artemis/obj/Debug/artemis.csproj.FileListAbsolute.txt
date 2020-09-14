@@ -1,0 +1,5 @@
+C:\Users\Trayambak\source\repos\artemis\bin\Debug\artemis.dll
+C:\Users\Trayambak\source\repos\artemis\bin\Debug\artemis.pdb
+C:\Users\Trayambak\source\repos\artemis\obj\Debug\artemis.csprojAssemblyReference.cache
+C:\Users\Trayambak\source\repos\artemis\obj\Debug\artemis.dll
+C:\Users\Trayambak\source\repos\artemis\obj\Debug\artemis.pdb
