@@ -16,7 +16,7 @@ the first integer is defined as 'a', the second integer is defined as 'b'.
 
 the Add function performs the addition operation.
 Eg:
-
+```csharp
 using System;
 using artemis;
 
@@ -31,7 +31,7 @@ namespace ArtemisDemo
         }
     }
 }
-
+```
 ----
 
 
@@ -42,7 +42,7 @@ namespace ArtemisDemo
 
 the Subtract function performs the subtraction operation.
 Eg:
-
+```csharp
 using System;
 using artemis;
 
@@ -57,7 +57,7 @@ namespace ArtemisDemo
         }
     }
 }
-
+```
 ----
 
 
@@ -65,7 +65,7 @@ namespace ArtemisDemo
 "Multiply"
 the Multiply function performs the multiplication operation.
 Eg:
-
+```csharp
 using System;
 using artemis;
 
@@ -80,7 +80,7 @@ namespace ArtemisDemo
         }
     }
 }
-
+```
 ----
 
 
@@ -89,7 +89,7 @@ namespace ArtemisDemo
 "Divide"
 the Divide function performs the division operation.
 Eg:
-
+```csharp
 using System;
 using artemis;
 
@@ -104,7 +104,7 @@ namespace ArtemisDemo
         }
     }
 }
-
+```
 ----
 
 
