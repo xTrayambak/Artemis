@@ -1,6 +1,7 @@
 # Artemis
 Artemis Simple Mathematical Calculation API. Can perform basic mathematical operations. (Compiled .dll is in bin/debug)
 
+----
 API Documentation:
 
 the first integer is defined as 'a', the second integer is defined as 'b'.
